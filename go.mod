@@ -6,7 +6,7 @@ toolchain go1.22.6
 
 require (
 	github.com/redhat-best-practices-for-k8s/graphsolver-lib v0.0.4
-	github.com/redhat-best-practices-for-k8s/l2discovery-exports v0.0.4
+	github.com/redhat-best-practices-for-k8s/l2discovery-exports v0.0.5
 )
 
 require (
